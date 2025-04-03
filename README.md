@@ -1,6 +1,6 @@
 text book : 파이썬 라이브러리를 활용한 데이터분석(3판)
 ------
-# 진행사항
+### 진행사항
 
 |날짜|Chapter|
 |------|---|
@@ -110,7 +110,8 @@ columns=[] : 원하는 열만 저장
         - for child in elt.getchildren(): 로 for 문 사용해서 딕셔너리 생성  
         - pd.DataFrame 으로 변경  
     2. pandas 사용  
-        - pd.read_xml(path)    
+        - pd.read_xml(path)      
+        
 
 ```이진 데이터 형식```  
 - 파이썬 내장 pickle 모듈 이용 (가장 간단)  
